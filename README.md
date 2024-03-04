@@ -1,2 +1,5 @@
 # MJD-Flask-Template
-Template para aplicações simples usando Flask
+
+Neste repositório você encontra:
+* Código básico para rodar uma aplicação em Flask
+* Notebook com exemplos de uso da API da OpenAI
